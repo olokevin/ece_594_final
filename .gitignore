@@ -12,6 +12,11 @@
 *.cb2
 .*.lb
 
+# data
+ece594n/data/
+models/
+env/
+
 ## Intermediate documents:
 *.dvi
 *.xdv
